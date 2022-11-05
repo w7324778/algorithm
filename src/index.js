@@ -1,3 +1,2 @@
-import test  from './js/index.js'
-test()
-console.log('1232')
+import './js/index.js'
+console.log('数组')
